@@ -1,0 +1,19 @@
+{
+    "total_modes": 14,
+    "modes": [
+        "1",
+        "L",
+        "P",
+        "RGB",
+        "RGBA",
+        "CMYK",
+        "YCbCr",
+        "I",
+        "F",
+        "LA",
+        "RGBX",
+        "RGBA64",
+        "I;16",
+        "I;16B"
+    ]
+}
